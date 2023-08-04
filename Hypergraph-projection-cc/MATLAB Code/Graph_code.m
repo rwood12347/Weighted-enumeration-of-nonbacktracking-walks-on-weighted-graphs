@@ -1,7 +1,7 @@
-load('D:\Fauci paper redo\Static Networks\Hypergraph-projection-cc\Matrices\A.mat');
+load('D:\Static Networks\Hypergraph-projection-cc\Matrices\A.mat');
 load('Katzcent.mat');
 load('NBTcent.mat');
-load('D:\Fauci paper redo\Static Networks\Hypergraph-projection-cc\Matrices\labels.mat');
+load('D:\Static Networks\Hypergraph-projection-cc\Matrices\labels.mat');
 %NBT Graph
 
 figure 
