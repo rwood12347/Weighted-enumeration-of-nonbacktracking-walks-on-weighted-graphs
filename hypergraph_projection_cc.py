@@ -16,8 +16,8 @@ import scipy.io
 
 
 
-savePath = 'D:\\Fauci paper redo\\Static Networks\\Hypergraph-projection-cc\\Matrices\\'
-networkFileName = 'D:\\Fauci paper redo\\Static Networks\\Hypergraph-projection-cc\\json data\\fauci-email-graph-hypergraph-projection-cc'
+savePath = 'D:\\Hypergraph-projection-cc\\Matrices\\'
+networkFileName = 'D:\\Hypergraph-projection-cc\\json data\\fauci-email-graph-hypergraph-projection-cc'
 
 
 saveMatrices = True
